@@ -18,3 +18,4 @@ Tu nombre:
 * Isidro (isidro.dev)
 * Eucario Vazquez Lopez (eucariovl)
 
+* Falto agregar al maestro Gerardo Contreras Vega (puntog)
