@@ -10,4 +10,5 @@ Tu nombre:
 * Jonathan (Vyr0n)
 * Víctor Hugo Hernández Hoyos (ElHuguito)
 * Julio Vásquez Díaz (ChicoJulio)
+* Isidro (isidro.dev)
 
