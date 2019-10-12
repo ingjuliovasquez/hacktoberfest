@@ -13,3 +13,4 @@ Tu nombre:
 * Julio Vásquez Díaz (ChicoJulio)
 * Julio Vásquez Díaz (ChicoJulio)
 * Isidro (isidro.dev)
+* Eucario Vazquez Lopez (eucariovl)
