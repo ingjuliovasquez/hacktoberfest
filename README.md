@@ -15,8 +15,6 @@ Tu nombre:
 * Emilio Rafael Salas Viveros 
 * Isidro (isidro.dev)
 *dylan antonio
-* Julio Vásquez Díaz (ChicoJulio)
 * Isidro (isidro.dev)
-
 * Eucario Vazquez Lopez (eucariovl)
 
