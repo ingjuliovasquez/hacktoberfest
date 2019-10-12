@@ -16,4 +16,7 @@ Tu nombre:
 * Isidro (isidro.dev)
 *dylan antonio
 * Julio Vásquez Díaz (ChicoJulio)
+* Isidro (isidro.dev)
+
+* Eucario Vazquez Lopez (eucariovl)
 
