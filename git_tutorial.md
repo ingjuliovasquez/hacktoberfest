@@ -1,5 +1,7 @@
 # Tutorial básico de git
 
+## Básicos
+
 **Saber el estado de las cosas**
 
 `git status`
@@ -8,21 +10,7 @@
 
 `git branch`
 
-**Crea una nueva rama**
-
-`git branch nombre-de-la-rama`
-
-**Cambiar de rama**
-
-`git checkout nombre-de-la-rama`
-
-**Unir cambios de la rama mencionada a la rama en la que estamos**
-
-`git merge nombre-de-la-rama-a-unir`
-
-**Ver la lista de repositorios remotos asociados a este proyecto**
-
-`git remote -v`
+## Cambios
 
 **Añadir cambios de archivos modificados**
 
@@ -40,7 +28,29 @@
 
 `git reset --soft HEAD~1`
 
-(si no se quieren dejar los cambios de ese commit cambiar --soft por --hard)
+* si no se quieren dejar los cambios de ese commit cambiar `--soft` por `--hard`.
+* se puede cambiar el uno por otro número para deshacer más commits.
+* `HEAD^` es equivalente a `HEAD~1`.
+
+## Ramas
+
+**Crea una nueva rama**
+
+`git branch nombre-de-la-rama`
+
+**Cambiar de rama**
+
+`git checkout nombre-de-la-rama`
+
+**Unir cambios de la rama mencionada a la rama en la que estamos**
+
+`git merge nombre-de-la-rama-a-unir`
+
+## Repositorios remotos
+
+**Ver la lista de repositorios remotos asociados a este proyecto**
+
+`git remote -v`
 
 **Crear una imagen de nuestra rama en el repositorio remoto (primer push)**
 
@@ -49,6 +59,8 @@
 **Subir los cambios de la rama actual a su imagen remota**
 
 `git push`
+
+## Cosas lindas
 
 **Ver una lista bonita de cambios**
 
