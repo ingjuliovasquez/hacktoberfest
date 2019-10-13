@@ -1,0 +1,28 @@
+
+git branch --- menciona cuantas ramas hash_copy
+
+git branch develop  --- agregar nueva rama (ESTE COMANDO no es recomendable mejor hacerlo desde el la web para mas seguro)
+
+git status -- mostrar estatus
+
+git checkout develop  --cambiar de rama [nota verificar que si se cambio]
+
+git merge develop   --- aqui hacemos una fusion de rammas en donde agregamos lo que hay en la rama nombrada(DEVELOP) a la rama actual
+
+PARA SUBIR CAMBIOS---------------------------------------------
+git remote     --- ver las lista de remotos
+git remote -v  --------para ver la direecion url dodne trabaja el repo
+
+git add -A      --- agrega todos los cambios
+
+git commit -m "nuevo cambio"   ----- para hacer cambios
+
+git reset --soft HEAD~1 -------deshasemos el ultimo commit que hicimos
+
+git push --- para subir todos los archivos al repo 
+
+git push origin master  -- ´para subir cambios tambien 
+
+
+git log --graph --decorate --oneline  --all para ver una lista de cambios
+
