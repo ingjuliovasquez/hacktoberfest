@@ -52,6 +52,12 @@
 
 `git remote -v`
 
+**Añadir un nuevo repositorio remoto**
+
+`git remote add nombre-del-demoto url-del-remoto`
+
+* Por ejemplo cuando contribuyes a un proyecto de código abierto es útil añadir un remoto de nombre `upstream` que tenga la URL del repositorio original (del que hiciste fork)
+
 **Crear una imagen de nuestra rama en el repositorio remoto (primer push)**
 
 `git push -u origin nombre-de-la-rama`
