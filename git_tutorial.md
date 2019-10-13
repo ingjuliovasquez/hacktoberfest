@@ -66,6 +66,13 @@
 
 `git push`
 
+**Bajar cambios del proyecto original**
+
+`git pull upstream master`
+
+* Para esto hay que estar en la rama máster
+* si el comando falla quizá sea por que `upstream` no está definido, caso en el cual puedes usar el comando de esta lista para _añadir un nuevo repositorio remoto_ (está más arriba).
+
 ## Cosas lindas
 
 **Ver una lista bonita de cambios**
