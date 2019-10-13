@@ -7,6 +7,7 @@ Repositorio para mi primera contribución al open source
 Tu nombre:
 
 * Abraham (Categulario)
+* Juan Carlos
 * Rafael Fernandez
 * José Clemente (Cletsxd)
 * Jonathan (Vyr0n)
@@ -14,8 +15,7 @@ Tu nombre:
 * Julio Vásquez Díaz (ChicoJulio)
 * Emilio Rafael Salas Viveros 
 * Isidro (isidro.dev)
-* Victoria
 * dylan antonio
-* Isidro (isidro.dev)
 * Eucario Vazquez Lopez (eucariovl)
+* Victoria
 * Falto agregar al maestro Gerardo Contreras Vega (puntog)
