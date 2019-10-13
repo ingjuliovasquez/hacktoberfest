@@ -15,8 +15,7 @@ Tu nombre:
 * Emilio Rafael Salas Viveros 
 * Isidro (isidro.dev)
 * Victoria
-*dylan antonio
+* dylan antonio
 * Isidro (isidro.dev)
 * Eucario Vazquez Lopez (eucariovl)
 * Falto agregar al maestro Gerardo Contreras Vega (puntog)
-
