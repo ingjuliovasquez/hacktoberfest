@@ -26,3 +26,6 @@ git push origin master  -- ´para subir cambios tambien
 
 git log --graph --decorate --oneline  --all para ver una lista de cambios
 
+cambios nuevos
+
+
