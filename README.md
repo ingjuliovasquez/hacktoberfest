@@ -15,7 +15,7 @@ Tu nombre:
 * Julio Vásquez Díaz (ChicoJulio)
 * Emilio Rafael Salas Viveros 
 * Isidro (isidro.dev)
-*dylan antonio
+* dylan antonio
 * Julio Vásquez Díaz (ChicoJulio)
 * Isidro (isidro.dev)
 * Eucario Vazquez Lopez (eucariovl)
